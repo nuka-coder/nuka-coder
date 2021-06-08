@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @houdinibeanie
-- 👀 I’m interested in ... programming, and web and software dedvelopment.
+- 👀 I’m interested in ... programming, web and software development.
 - 🌱 I’m currently learning ...advanced Javascript and how to use Github. :P
 - 💞️ I’m looking to collaborate on ...something simple for experience.
 - 📫 How to reach me ...put out your hand. Or email.
