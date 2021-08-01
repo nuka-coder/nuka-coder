@@ -1,6 +1,6 @@
 ### Hey There, I'm Britany - aka [houdinibeanie][website] 👋
 
-## I'm a Writer, Developer, Photographer, and Cyclist!
+## I'm a Writer, Developer, Photographer, and Web Designer!
 #### What I'm working on:
 - I'm currently working on this [CS50 course][cs50-course] to sharpen my computer science logic.
 #### What I'm learning:
