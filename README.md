@@ -1,14 +1,14 @@
-### Hey There, I'm Britany - aka [houdinibeanie][https://github.com/houdinibeanie] 👋
+### Hey There, I'm Britany - aka [houdinibeanie][website] 👋
 
 ## I'm a Writer, Developer, Photographer, and Cyclist!
-- 💻 I'm currently working on this [CS50 course][https://online-learning.harvard.edu/course/cs50-introduction-computer-science?delta=0] to sharpen my computer science logic.
+- 💻 I'm currently working on this [CS50 course][cs50-course] to sharpen my computer science logic.
 - 📓 I'm currently learning...EVERYTHING! Ha. But especially more about Backend Web Development and implementing API's. Check back in to see my progress!
 - 🦾 I'm looking to meet and collaborate with other developers, and learn from them.
 - 🧱 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I'm a all-season cyclist (yes, even Winter ❄), and I love MTG: Arena. Message me if you're interested in setting up a match!
 
 ### Connect with me:
-[<img align="left" alt="houdinibeanie | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/houdinibeanie/]
+[<img align="left" alt="houdinibeanie | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <!-- https://fontawesome.com/license -->
 <!-- https://fontawesome.com/v5.15/icons/instagram-square?style=brands -->
 [<img align="left" alt="houdinibeanie | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -32,8 +32,10 @@
 
 [<img src="https://now-playing-houdinibeanie.vercel.app/api/spotify-playing" alt="houdinibeanie Spotify Playing" width="350" />](https://open.spotify.com/user/jaybritany?si=12335d20448c4957)
 
+[website]: https://github.com/houdinibeanie
 [instagram]: https://instagram.com/houdinibeanie
 [linkedin]: COMING-SOON\\houdinibeanie
+[cs50-course]: https://online-learning.harvard.edu/course/cs50-introduction-computer-science?delta=0
 
 <!---
 houdinibeanie/houdinibeanie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
