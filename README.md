@@ -2,8 +2,8 @@
 
 ## I'm a Writer, Developer, Photographer, and Cyclist!
 - 💻 I'm currently working on this [CS50 course][cs50-course] to sharpen my computer science logic.
-- 📓 I'm currently learning...EVERYTHING! Ha. But especially more about Backend Web Development and implementing API's. Check back in to see my progress!
-- 🦾 I'm looking to meet and collaborate with other developers, and learn from them.
+- 📒 I'm currently learning...EVERYTHING! Ha. But especially more about Backend Web Development and implementing API's. Check back in to see my progress!
+- 🧕🤝 I'm looking to meet and collaborate with other developers, and learn from them.
 - 🧱 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I'm a all-season cyclist (yes, even Winter ❄), and I love MTG: Arena. Message me if you're interested in setting up a match!
 
@@ -27,6 +27,9 @@
 
 <br />
 <br />
+
+### Spotify Playing 🎧
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jaybritany&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
 [website]: https://github.com/houdinibeanie
 [instagram]: https://instagram.com/houdinibeanie
