@@ -1,9 +1,13 @@
 ### Hey There, I'm Britany - aka [houdinibeanie][website] 👋
 
 ## I'm a Writer, Developer, Photographer, and Cyclist!
-- 💻 I'm currently working on this [CS50 course][cs50-course] to sharpen my computer science logic.
-- 📒 I'm currently learning...EVERYTHING! Ha. But especially more about Backend Web Development and implementing API's. Check back in to see my progress!
-- 🧕🤝 I'm looking to meet and collaborate with other developers, and learn from them.
+#### What I'm working on:
+- I'm currently working on this [CS50 course][cs50-course] to sharpen my computer science logic.
+#### What I'm learning:
+- I'm currently learning...EVERYTHING! Ha. But especially more about Backend Web Development and implementing API's. Check back in to see my progress!
+#### What I'm looking for:
+- I'm looking to meet and collaborate with other developers, and learn from them.
+---
 - 🧱 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I'm an all-season cyclist (yes, even Winter ❄), and I love MTG: Arena. Message me if you're interested in setting up a match!
 
