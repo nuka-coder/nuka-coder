@@ -6,7 +6,7 @@
 #### What I'm learning:
 - I'm currently learning...EVERYTHING! Ha. But especially more about Backend Web Development and implementing API's. Check back in to see my progress!
 #### What I'm looking for:
-- I'm looking to meet and collaborate with other developers, and learn from them.
+- I'm looking to meet and collaborate with other developers, and exchange ideas.
 ---
 - 🧱 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I'm an all-season cyclist (yes, even Winter ❄), and I love MTG: Arena. Message me if you're interested in setting up a match!
@@ -49,4 +49,4 @@
 houdinibeanie/houdinibeanie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<!---Credit: inspired by: https://github.com/codeSTACKr --->
+<!---Credit: inspired by: https://github.com/codeSTACKr, and https://github.com/anuraghazra --->
