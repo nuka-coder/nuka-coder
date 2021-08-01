@@ -30,7 +30,8 @@
 
 ### Language Breakdown
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denvermullets&layout=compact&langs_count=10)](https://github.com/houdinibeanie)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=houdinibeanie)](https://github.com/houdinibeanie/github-readme-stats)
+
 ---
 ### Spotify Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jaybritany&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
