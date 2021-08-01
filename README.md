@@ -5,7 +5,7 @@
 - 📒 I'm currently learning...EVERYTHING! Ha. But especially more about Backend Web Development and implementing API's. Check back in to see my progress!
 - 🧕🤝 I'm looking to meet and collaborate with other developers, and learn from them.
 - 🧱 2021 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I'm a all-season cyclist (yes, even Winter ❄), and I love MTG: Arena. Message me if you're interested in setting up a match!
+- ⚡ Fun fact: I'm an all-season cyclist (yes, even Winter ❄), and I love MTG: Arena. Message me if you're interested in setting up a match!
 
 ### Connect with me:
 [<img align="left" alt="houdinibeanie | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
