@@ -3,7 +3,13 @@
 ## I'm a Writer, Developer, and Photographer!
 
 ### About
-I’m a software developer who is passionate about making technology that solves real-world problems, designing creative websites that elevate user experience, and building community and exchanging ideas with other developers. I love working with Front-End technologies -like Javascript, HTML, and CSS- but I’m always learning something new and eagerly pursuing Backend technologies as well. Honestly, learning is my favorite thing about software development because you never stop learning! And what you learn continues to make you an even stronger developer. Adding a new technology, or framework, to my utility belt is like a real-world ‘Level Up!’, and as a gamer I find this incredibly exciting.
+
+I’m a software developer passionate about making technology that solves **real-world problems**, designing creative websites that elevate user experience, and building
+community and exchanging ideas. I love working with Front-End technologies -like Javascript, HTML, and CSS- but I’m always learning something new and 
+eagerly pursuing Backend technologies as well. Honestly, learning is my favorite thing about software development because you never stop learning! And what you learn continues 
+to make you an even stronger developer. Adding a new technology, or framework, to my utility belt is like a real-world **‘Level Up!’**, and as a gamer I find this incredibly 
+exciting. 🎮 😏
+
 ---
 #### What I'm working on:
 - I'm currently working on this [CS50 course][cs50-course] to sharpen my computer science logic.
@@ -13,13 +19,13 @@ I’m a software developer who is passionate about making technology that solves
 - I'm looking to meet and collaborate with other developers, and exchange ideas.
 ---
 - 🧱 2021 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I'm an all-season cyclist (yes, even Winter ❄), and I love MTG: Arena. Message me if you're interested in setting up a match!
+- ⚡ Fun fact: I'm an all-season cyclist (yes, even Winter ❄), and I love [MTG: Arena](https://magic.wizards.com/en/mtgarena?gclid=CjwKCAjw9aiIBhA1EiwAJ_GTSpOwVnJ9O5jmELo3_oXB-33D89r9whDivBokqv0GdLU3W-NceT8VgRoCjnAQAvD_BwE). Message me if you're interested in setting up a match!
 
 ### Connect with me:
-[<img align="left" alt="houdinibeanie | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="houdinibeanie | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/houdinibeanie 'houdinibeanie IG')
 <!-- https://fontawesome.com/license -->
 <!-- https://fontawesome.com/v5.15/icons/instagram-square?style=brands -->
-[<img align="left" alt="houdinibeanie | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="houdinibeanie | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](linkedin.com 'Britany LinkedIn')
 
 
 <br />
