@@ -14,7 +14,7 @@ exciting. 🎮 😏
 #### What I'm working on:
 - I'm currently working on this [CS50 course][cs50-course] to sharpen my computer science logic.
 #### What I'm learning:
-- I'm currently learning...EVERYTHING! Ha. But especially more about Backend Web Development and implementing API's. Check back in to see my progress!
+- I'm currently learning...EVERYTHING. Ha! But especially more about Backend Web Development and implementing API's. Check back in to see my progress!
 #### What I'm looking for:
 - I'm looking to meet and collaborate with other developers, and exchange ideas.
 ---
