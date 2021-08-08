@@ -19,7 +19,7 @@ exciting. 🎮 😏
 - I'm looking to meet and collaborate with other developers, and exchange ideas.
 ---
 - 🧱 2021 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I'm an all-season cyclist (yes, even Winter ❄), and I love [MTG: Arena](https://magic.wizards.com/en/mtgarena?gclid=CjwKCAjw9aiIBhA1EiwAJ_GTSpOwVnJ9O5jmELo3_oXB-33D89r9whDivBokqv0GdLU3W-NceT8VgRoCjnAQAvD_BwE). Message me if you're interested in setting up a match!
+- ⚡ Fun fact: I'm an all-season cyclist (yes, even Winter ❄), and I build my own bikes. Also, I love [MTG: Arena](https://magic.wizards.com/en/mtgarena?gclid=CjwKCAjw9aiIBhA1EiwAJ_GTSpOwVnJ9O5jmELo3_oXB-33D89r9whDivBokqv0GdLU3W-NceT8VgRoCjnAQAvD_BwE). Message me if you're interested in setting up a match!
 
 ### Connect with me:
 [<img align="left" alt="houdinibeanie | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/houdinibeanie 'houdinibeanie IG')
