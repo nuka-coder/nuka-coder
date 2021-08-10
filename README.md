@@ -4,9 +4,9 @@
 
 ### About
 
-I’m a front-end developer and web designer passionate about making technology that solves **real-world problems**; designing creative websites that elevate user experience, and building
-community and exchanging ideas. I love working with Front-End technologies -like Javascript, HTML, and CSS- but I’m always learning something new and 
-eagerly pursuing Backend technologies as well. Honestly, learning is my favorite thing about software development because you never stop learning! And what you learn continues 
+I’m a front-end developer and web designer passionate about making technology that solves **real-world problems**, designing creative websites that elevate user experience, and building
+community while exchanging ideas. I love working with Front-End technologies -like Javascript, HTML, and CSS- but I’m always learning something new and 
+eagerly pursuing Backend technologies as well. Honestly, learning is my favorite thing about software development because you never stop learning, and the skills you learn continue
 to make you an even stronger developer. Adding a new technology, or framework, to my utility belt is like a real-world **‘Level Up!’**, and as a gamer I find this incredibly 
 exciting. 🎮 😏
 
