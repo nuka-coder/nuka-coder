@@ -1,4 +1,4 @@
-### Hi, I'm Britany - aka [houdinibeanie][website] 👋
+### Hi, I'm Britany - aka [@nukaCoder](https://twitter.com/nukaCoder) 👋
 
 ## I'm a Writer, Developer, and Photographer!
 
