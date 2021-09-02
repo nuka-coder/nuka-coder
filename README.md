@@ -42,7 +42,7 @@ eagerly pursuing Backend technologies as well. I love that you never stop learni
 
 ### Language Breakdown
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=houdinibeanie)](https://github.com/houdinibeanie/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuka-coder)](https://github.com/nuka-coder/github-readme-stats)
 
 ---
 ### Spotify Playing 🎧
