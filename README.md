@@ -16,7 +16,7 @@ eagerly pursuing Backend technologies to achieve a more robust stack. I love tha
 #### What I'm looking for:
 - I'm looking to meet and collaborate with other developers, and exchange ideas.
 ---
-- 🧱 2021 Goals: Contribute more to Open Source projects.
+- 🧱 2022 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I'm an all-season cyclist (yes, even Winter ❄), and I build my own bikes. Also, I love [MTG: Arena](https://magic.wizards.com/en/mtgarena?gclid=CjwKCAjw9aiIBhA1EiwAJ_GTSpOwVnJ9O5jmELo3_oXB-33D89r9whDivBokqv0GdLU3W-NceT8VgRoCjnAQAvD_BwE). Message me if you're interested in setting up a match!
 
 ### Connect with me:
