@@ -110,7 +110,8 @@ p {
 /* Loading Div */
 .loading-div {
   background-image: url(images/night-sky.jpg);
-  display: flex;
+  /* display: flex; */
+  display: none;
   justify-content: center;
   position: fixed;
   height: 100vh;
@@ -124,7 +125,7 @@ p {
   width: 50vw;
   object-fit: contain;
   animation-name: loading;
-  animation-duration: 5s;
+  animation-duration: 0s;
   animation-iteration-count: 1;
   animation-direction: normal;
   animation-fill-mode: forwards;
