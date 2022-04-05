@@ -145,9 +145,9 @@ p {
 }
 
 /* Overlay */
-.page-overlay {
+/* .page-overlay {
   visibility: hidden;
-}
+} */
 
 /* Landing Section  */
 .landing-section {
@@ -969,12 +969,12 @@ Javascript */
   width: 40vw;
 }
 
-.chromestore-link {
+.bike-co-link {
   color: var(--primary1);
   text-decoration: underline;
 }
 
-.chromestore-link:hover {
+.bike-co-link:hover {
   color: var(--primary2);
 }
 
