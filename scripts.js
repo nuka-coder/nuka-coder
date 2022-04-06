@@ -16,6 +16,9 @@ function showPage() {
 function openCH() {
   window.open("https://github.com/nuka-coder/Cycle-Hostel");
 }
+function openCHsite() {
+  window.open("https://nuka-coder.github.io/Cycle-Hostel/");
+}
 // Bareque Cocina
 function openBareque() {
   window.open("https://github.com/nuka-coder/Bareque-Cocina-Restaurant-NukaFork");
