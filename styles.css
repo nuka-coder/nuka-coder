@@ -14,6 +14,8 @@
     url('american_captain-webfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
+  font-display: swap;
+
 }
 
 html {
@@ -109,7 +111,7 @@ p {
 
 /* Loading Div */
 .loading-div {
-  background-image: url(images/night-sky.jpg);
+  background-image: url(images/night-sky.webp);
   /* display: flex; */
   display: none;
   justify-content: center;
@@ -153,7 +155,7 @@ p {
 /* Landing Section  */
 .landing-section {
   align-items: center;
-  background-image: url(images/night-sky.jpg);
+  background-image: url(images/night-sky.webp);
   background-position: 0 0;
   display: flex;
   height: fit-content;
@@ -834,7 +836,7 @@ Javascript */
 
 /* Software and Tools Section */
 .skills-section {
-  background-image: url(images/night-stars.jpg);
+  background-image: url(images/night-stars.webp);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -1063,7 +1065,7 @@ Javascript */
 
 /* CTA Section */
 .cta {
-  background-image: url(images/night-sky.jpg);
+  background-image: url(images/night-sky.webp);
   background-position: 0 0;
   padding: 7em 2em 3em;
   position: relative;
