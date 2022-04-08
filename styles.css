@@ -15,7 +15,6 @@
   font-weight: normal;
   font-style: normal;
   font-display: swap;
-
 }
 
 html {
@@ -1404,7 +1403,7 @@ Javascript */
 
 @media only screen and (max-width: 1040px) {
   .cta-heading {
-    font-size: 4em;
+    font-size: 3em;
   }
 }
 
@@ -1617,7 +1616,7 @@ Javascript */
   }
 
   .cta-heading {
-    font-size: 3em;
+    font-size: 1.5em;
     padding: 0 1em;
   }
 
