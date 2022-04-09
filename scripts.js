@@ -24,12 +24,18 @@ function openBareque() {
   window.open("https://github.com/nuka-coder/Bareque-Cocina-Restaurant-NukaFork");
 }
 // ChainrRing
-function openChainring() {
+function openChainringSite() {
   window.open("https://nuka-coder.github.io/ChainRing-Bike-Co./")
+}
+function openChainringSource() {
+  window.open("https://github.com/nuka-coder/ChainRing-Bike-Co./")
 }
 // Github Button
 function openGithub() {
   window.open("https://github.com/nuka-coder");
+}
+function openBarequeSite() {
+  window.open("https://nuka-coder.github.io/Bareque-Cocina-Restaurant-NukaFork/");
 }
 
 // Modal reveals
