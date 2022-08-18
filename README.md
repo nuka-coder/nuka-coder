@@ -6,7 +6,7 @@
 
 I’m a __Javascript developer__ and web designer working to make technology that solves **real-world problems**, design creative websites that elevate user experience, and build
 community while exchanging ideas. I love working with Front-End technologies -like Javascript, HTML, and CSS- but I’m 
-eagerly pursuing Backend technologies to achieve a more robust stack. I love that as a developer you never stop learning! Adding a new technology, or framework, to my utility belt is like a real-world **‘Level Up!’**, and as a gamer I find this incredibly exciting. 🎮 😏
+eagerly pursuing Backend technologies to achieve a more robust stack. I love that as a developer you never stop learning! Adding a new technology, or framework, to my utility belt is like a real-world **‘Achievement Unlocked!’**, and as a gamer I find this incredibly exciting. 🎮 😏
 
 ---
 #### What I'm working on:
