@@ -1,4 +1,4 @@
-### Hi, I'm Brittany - aka [nuka_coder](https://twitter.com/nuka_coder) 👋
+### Hi, I'm Brittany 👋
 
 ## I'm a Writer, Developer, and Photographer!
 
