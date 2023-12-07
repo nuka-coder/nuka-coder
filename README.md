@@ -5,14 +5,13 @@
 ### About
 
 I’m a __Javascript developer__ and web designer working to make technology that solves **real-world problems**, design creative websites that elevate user experience, and build
-community while exchanging ideas. I love working with Front-End technologies -like Javascript, HTML, and CSS- but I’m 
-eagerly pursuing Backend technologies to achieve a more robust stack. I love that as a developer you never stop learning! Adding a new technology, or framework, to my utility belt is like a real-world **‘Achievement Unlocked!’**, and as a gamer I find this incredibly exciting. 🎮 😏
+community while exchanging ideas. I love that as a developer you never stop learning! Adding a new technology, or framework, to my utility belt is like a real-world **‘Achievement Unlocked!’**, and as a gamer I find this incredibly exciting. 🎮 😏
 
 ---
 #### What I'm working on:
-- I'm currently working on this [CS50 course][cs50-course] to sharpen my computer science logic.
+- TBA
 #### What I'm learning:
-- I'm currently learning...EVERYTHING. Ha! But especially more about Backend Web Development and implementing API's. Check back in to see my progress!
+- Check back in to see my progress!
 #### What I'm looking for:
 - I'm looking to meet and collaborate with other developers, and exchange ideas.
 ---
@@ -20,9 +19,6 @@ eagerly pursuing Backend technologies to achieve a more robust stack. I love tha
 - ⚡ Fun fact: I'm an all-season cyclist (yes, even Winter ❄), and I build my own bikes. Also, I love [MTG: Arena](https://magic.wizards.com/en/mtgarena?gclid=CjwKCAjw9aiIBhA1EiwAJ_GTSpOwVnJ9O5jmELo3_oXB-33D89r9whDivBokqv0GdLU3W-NceT8VgRoCjnAQAvD_BwE). Message me if you're interested in setting up a match!
 
 ### Connect with me:
-[<img align="left" alt="houdinibeanie | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/houdinibeanie 'houdinibeanie IG')
-<!-- https://fontawesome.com/license -->
-<!-- https://fontawesome.com/v5.15/icons/instagram-square?style=brands -->
 [<img align="left" alt="houdinibeanie | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](linkedin.com 'Britany LinkedIn')
 
 
@@ -49,7 +45,6 @@ eagerly pursuing Backend technologies to achieve a more robust stack. I love tha
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jaybritany&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
 [website]: https://github.com/houdinibeanie
-[instagram]: https://instagram.com/houdinibeanie
 [linkedin]: COMING-SOON\\houdinibeanie
 [cs50-course]: https://online-learning.harvard.edu/course/cs50-introduction-computer-science?delta=0
 
