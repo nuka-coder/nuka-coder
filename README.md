@@ -1,6 +1,6 @@
 ### Hi, I'm Brittany 👋
 
-## I'm a Developer, Writer, and Photographer!
+## I'm a Web Developer, Writer, and Photographer!
 
 ### About
 
