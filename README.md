@@ -37,8 +37,6 @@ community while exchanging ideas. I love that as a developer you never stop lear
 <br />
 
 ---
-### Spotify Playing 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jaybritany&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
 [website]: https://github.com/houdinibeanie
 [linkedin]: COMING-SOON\\houdinibeanie
