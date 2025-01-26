@@ -11,7 +11,7 @@ community while exchanging ideas. I love that as a developer you never stop lear
 #### What I'm working on:
 - TBA
 #### What I'm learning:
-- Check back in to see my progress!
+- TBA, visit again to see my progress!
 #### What I'm looking for:
 - I'm looking to meet and collaborate with other developers, and exchange ideas.
 ---
