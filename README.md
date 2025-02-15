@@ -1,6 +1,6 @@
 ### Hi, I'm Brittany 👋
 
-## I'm a Web Developer, Writer, and Photographer!
+## I'm a Fullstack Web Developer, Writer, and Photographer!
 
 ### About
 
