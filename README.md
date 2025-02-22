@@ -20,7 +20,6 @@ community while exchanging ideas. I love that as a developer you never stop lear
 ### Connect with me:
 [<img align="left" alt="houdinibeanie | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](linkedin.com 'Britany LinkedIn')
 
-
 <br />
 
 ### Languages and Tools:
