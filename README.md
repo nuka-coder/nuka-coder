@@ -5,7 +5,7 @@
 ### About
 
 I’m a __Web Developer__ working to make technology that solves **real-world problems**, design creative websites that elevate user experience, and build
-community while exchanging ideas. I love that as a developer you never stop learning! Adding a new technology, or framework, to my utility belt is like a real-world **‘Achievement Unlocked!’**, and I find this incredibly exciting. 🎮 😏
+community while exchanging ideas. I love that as a developer you never stop learning! Adding a new technology, or framework, to my utility belt is like a real-world **‘Achievement Unlocked!’**, and I think that's very exciting. 🎮 😏
 
 ---
 #### What I'm working on:
