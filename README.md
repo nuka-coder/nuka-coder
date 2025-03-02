@@ -33,8 +33,6 @@ community while exchanging ideas. I love that as a developer you never stop lear
 
 <br />
 <br />
-
-
 ---
 
 [website]: https://github.com/houdinibeanie
