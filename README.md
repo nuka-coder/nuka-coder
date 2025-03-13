@@ -36,8 +36,8 @@ community while exchanging ideas. I love that as a developer you never stop lear
 <br />
 ---
 
-[website]: https://github.com/houdinibeanie
-[linkedin]: COMING-SOON\\houdinibeanie
+[website]: 
+[linkedin]:
 [cs50-course]: https://online-learning.harvard.edu/course/cs50-introduction-computer-science?delta=0
 
 <!---
