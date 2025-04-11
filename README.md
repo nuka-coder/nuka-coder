@@ -4,6 +4,7 @@
 
 ### About
 
+
 I’m a __Web Developer__ working to make technology that solves **real-world problems**, design creative websites that elevate user experience, and build
 community while exchanging ideas.
 
