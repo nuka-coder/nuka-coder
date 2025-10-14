@@ -9,11 +9,6 @@ I’m a __Web Developer__ working to make technology that solves **real-world pr
 community while exchanging ideas.
 
 ---
-
-#### What I'm working on:
-- TBA
-#### What I'm learning:
-- TBA, check in later to see my progress!
 #### What I'm looking for:
 - I'm looking to meet and collaborate with other developers, and exchange ideas.
 ---
