@@ -40,20 +40,6 @@ I'm a **Web Developer** at [@LevelAgency](https://github.com/LevelAgency) workin
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Terminal](https://img.shields.io/badge/-Terminal-4D4D4D?style=flat-square&logo=gnome-terminal&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nuka-coder&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuka-coder&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### 🔗 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
