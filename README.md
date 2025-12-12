@@ -4,7 +4,7 @@
 
 ### About
 
-I'm a **Web Developer** at [@LevelAgency](https://github.com/LevelAgency) working to make technology that solves **real-world problems**, design creative websites that elevate user experience, and build community while exchanging ideas.
+I'm a **Full Stack Developer** working to make technology that solves **real-world problems**, design creative websites that elevate user experience, and build community while exchanging ideas.
 
 ---
 
