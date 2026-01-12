@@ -14,7 +14,7 @@ I'm a **Full Stack Developer** working to make technology that solves **real-wor
 
 ---
 
-- 🧱 **2026 Goals:** coming soon
+- 🧱 **2026 Goals:** coming soon to Github!
 
 ---
 
